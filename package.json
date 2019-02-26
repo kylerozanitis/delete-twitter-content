@@ -1,0 +1,24 @@
+{
+  "name": "delete-twitter-content",
+  "version": "1.0.0",
+  "description": "Nodejs twitter content remover",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylerozanitis/delete-twitter-content.git"
+  },
+  "author": "Kyle Rozanitis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylerozanitis/delete-twitter-content/issues"
+  },
+  "homepage": "https://github.com/kylerozanitis/delete-twitter-content#readme"
+}
